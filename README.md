@@ -1,14 +1,21 @@
-- 👋 Hi, I’m 林家宝    
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=krystalics&count_private=true&show_icons=true" />
 </a>
 
-- 👀 I’m interested in 大数据领域任务调度系统以及对于web framework略有研究  
-- 🌱 I’m currently learning 业界其他的调度系统
-- 📫 How to reach me linjiabao001@gmail.com
-个人比较热爱开源，热爱分享。对技术有自己的追求，也善于总结。
-所以在工作之余，借鉴开源系统与工作上的实践。设计并开发了一个全新的分布式任务调度系统 d10-scheduler，具备弹性扩展高稳定性等特点
-详见：https://github.com/krystalics/d10-scheduler
+### Basic Info
+- Hi, I’m 林家宝(Just call me Job)
+- Graduated from Wuhan University of Technology,Bachelor
+- Open source fancier in Go,Java etc.
+- Research in the field of Task Scheduler System & Data Transfer System
+
+### Selected services I wrote
+
+- [d10-scheduler](https://github.com/krystalics/d10-scheduler): A simply Task Scheduler System based on dag with features in Distributed,Flexible scheduling,Multi tenant etc.
+- [Krysta](https://github.com/krystalics/krysta): A simply Ioc framework
+
+### Selected writings I post
+- [贝壳基于Spark的HiveToHBase实践](https://mp.weixin.qq.com/s/pfeg25F_E3UrZJXJRXsfug): A practice of transfering hive data to hbase with spark engine
+- [贝壳大数据任务调度DAG体系设计实践](https://mp.weixin.qq.com/s/tHTfQP_qVOObt7BNQQtSiA): A approach to create dynamic rely relationship
 
 <!---
 krystalics/krystalics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
