@@ -12,9 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krystalics&count_private=true&show_icons=true" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krystalics&repo=convoychat" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=krystalics&count_private=true&show_icons=true" />
 </a>
