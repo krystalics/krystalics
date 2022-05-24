@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 林家宝    [![Krystalics's GitHub stats](https://github-readme-stats.vercel.app/api?username=krystalics&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- 👋 Hi, I’m 林家宝    
 - 👀 I’m interested in 大数据领域任务调度系统以及对于web framework略有研究  
 - 🌱 I’m currently learning 业界其他的调度系统
 - 📫 How to reach me linjiabao001@gmail.com
@@ -11,3 +11,10 @@ krystalics/krystalics is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krystalics&count_private=true&show_icons=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krystalics&repo=convoychat" />
+</a>
